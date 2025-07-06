@@ -4,7 +4,7 @@ Spooky Halloween Counter is a creepy-cool web app built to celebrate the spooky 
 
 This haunted counter lets users increase the count using the Spacebar, with a ghoulish limit to keep things under control (no counting zombies past 5! 🧟‍♂️). Designed with a custom Halloween-themed UI, it features:
 
-🎃 Glowing orange and deep purple visuals
+🎃 Glowing deep purple visuals
 
 👻 Spooky fog animation
 
