@@ -1,5 +1,23 @@
 # React + Vite
 
+Spooky Halloween Counter is a creepy-cool web app built to celebrate the spooky season! 🕸️
+
+This haunted counter lets users increase the count using the Spacebar, with a ghoulish limit to keep things under control (no counting zombies past 5! 🧟‍♂️). Designed with a custom Halloween-themed UI, it features:
+
+🎃 Glowing orange and deep purple visuals
+
+👻 Spooky fog animation
+
+💀 A maximum count of 5 (because more than that might summon something...)
+
+⌨️ Keyboard-triggered interactions (Spacebar only — no clicks from the undead allowed)
+
+Built using React + CSS, this fun project was made to practice event handling, state management, and custom styling — all with a touch of Halloween flair.
+
+⚠️ Warning: Repeated pressing of the spacebar may summon the spirits of deprecated code... Use responsibly.
+
+Let me know if you want a shorter version, or if you're adding things like deployment, contributors, or demo screenshots!
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
